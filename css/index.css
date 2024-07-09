@@ -9,6 +9,6 @@
   margin: auto;
   background-color: black;
   & h1 {
-    color: aqua;
+    color: red;
   }
 }
